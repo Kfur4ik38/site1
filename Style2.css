@@ -1,0 +1,106 @@
+.oll {
+  background-color: rgb(255, 247, 233);
+  margin: auto;
+  padding: 3px 300px;
+}
+
+.oll2 {
+  background-color: rgb(255, 247, 233);
+}
+
+.avatar1 {
+  width: 400px;
+}
+
+.avatar2 {
+  width: 400px;
+}
+
+.h1 {
+  margin: auto;
+  padding: 10px 325px;
+}
+
+.bg-color1 {
+  background-color: rgb(200, 250, 244);
+  color: rgb(232, 83, 232);
+  border-radius: 25px;
+}
+
+.card1 h2 {
+  padding: 15px 20px;
+  margin-bottom: 10px;
+}
+
+.h1v2 {
+  margin: auto;
+  padding: 10px 325px;
+}
+
+.bg-color2 {
+  background-color: rgb(244, 206, 206);
+  color: blueviolet;
+  border-radius: 25px;
+}
+
+.positive {
+  margin: auto;
+  padding: 10px 325px;
+}
+
+.bg-color3 {
+  background-color: rgb(209, 239, 188);
+  color: rgb(246, 99, 99);
+  border-radius: 25px;
+}
+
+.h1v3 {
+  margin: auto;
+  padding: 10px 325px;
+}
+
+.bg-color4 {
+  background-color: rgb(209, 192, 242);
+  color: rgb(49, 0, 246);
+  border-radius: 25px;
+}
+
+.row {
+  display: flex;
+  padding: 3px 100px;
+}
+
+.Ones {
+  padding: 3px 360px;
+  word-spacing: 240px;
+}
+
+.H2v2 {
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.H1v5 {
+  margin: auto;
+  padding: 10px 325px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  color: aqua;
+}
+
+.bg-color5 {
+  padding: 15px 20px;
+  margin-bottom: 10px;
+  background-color: rgb(239, 192, 225);
+  border-radius: 25px;
+}
